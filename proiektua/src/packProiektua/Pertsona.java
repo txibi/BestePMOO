@@ -1,16 +1,16 @@
 package packProiektua;
 //nik ere ohar bat sartu dut
 public class Pertsona {
-//atributuak
+//atributuak - JLG
 	private int id;
 	
 	
-//Eraikitzailea
+//Eraikitzailea - JLG
 	public Pertsona(int pId) {
 		this.id=pId;
 	}
 	
-//gainontzeko metodoak
+//gainontzeko metodoak -JLG
 	public boolean idBerdinaDu(Pertsona pPer) {
 		boolean emaitza=false;
 		
