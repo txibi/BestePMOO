@@ -1,5 +1,5 @@
 package packProiektua;
-
+//nik ere ohar bat sartu dut
 public class Pertsona {
 //atributuak
 	private int id;
