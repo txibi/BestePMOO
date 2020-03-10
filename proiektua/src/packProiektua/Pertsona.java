@@ -1,6 +1,5 @@
 package packProiektua;
 //nik ere ohar bat sartu dut
-
 public class Pertsona {
 //atributuak - JLG
 	private int id;
