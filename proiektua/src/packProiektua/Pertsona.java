@@ -2,7 +2,7 @@ package packProiektua;
 //nik ere ohar bat sartu dut
 public class Pertsona {
 //atributuak - JLG
-	//beste atributu bat
+	//beste atributu bat AitZi
 	private int id;
 	
 	
