@@ -4,6 +4,7 @@ public class Pertsona {
 //atributuak - JLG
 	//beste atributu bat AitZi
 	private int id;
+	private String izena;
 	
 	
 //Eraikitzailea - JLG
